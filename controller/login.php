@@ -15,5 +15,6 @@
     }else{
         echo "2";
         echo "Test Github Tutorial";
+        echo "Check status";
     }
 ?>
