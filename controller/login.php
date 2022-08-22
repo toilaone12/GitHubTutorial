@@ -14,5 +14,6 @@
         echo json_encode($array);
     }else{
         echo "2";
+        echo "Test Github Tutorial";
     }
 ?>
